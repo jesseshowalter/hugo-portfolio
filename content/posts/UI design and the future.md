@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-date: 2018-07-27T17:39:40-05:00
+title: "UI Design & the future"
+date: 2018-06-27T17:39:40-05:00
 draft: false
 ---
 

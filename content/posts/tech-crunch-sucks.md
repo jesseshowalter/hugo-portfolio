@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Tech Crunch Sucks"
 date: 2018-07-27T17:39:40-05:00
 draft: false
 ---
