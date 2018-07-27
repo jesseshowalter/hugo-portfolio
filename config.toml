@@ -1,4 +1,14 @@
-baseurl = "https://example.com"
-languageCode = "en"
-title = "Hugo Test Site"
+baseurl = "http://jesseshowalter.com/"
+languageCode = "ja"
+title = "Jesse Showalter"
+author = "Jesse Show"
+copyright = "rakuishi All rights reserved."
+googleanalytics = "UA-12345678-9"
 
+[params]
+  logo      = "/images/logo.png"
+  twitter   = "https://twitter.com/iamjesseshow"
+  facebook  = "https://www.facebook.com/ochiishikoichiro"
+  github    = "https://github.com/rakuishi/"
+  gitlab    = "https://gitlab.com/rakuishi/"
+  email     = "rakuishi@gmail.com"
