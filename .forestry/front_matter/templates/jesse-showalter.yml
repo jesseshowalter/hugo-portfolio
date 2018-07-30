@@ -2,4 +2,7 @@
 label: Jesse Showalter
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: tes_field
+  label: Tes field
