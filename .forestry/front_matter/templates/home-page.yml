@@ -1,0 +1,8 @@
+---
+label: Home Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: file
+- type: tag_list
